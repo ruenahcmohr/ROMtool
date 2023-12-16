@@ -1,0 +1,15 @@
+
+only up to A11 is wired right now
+
+The delay for the 32k, type 2, is wrong, its set to 10ms 
+  instead of 50ms
+  
+I'm leaving off with the need to build a 50ms personality module
+
+and another personality module for 25V
+
+currently able to program 2716 (be carefull of programming voltage and time)
+2816 and some 2732's
+
+
+use files /mf/p/c/romtooler/
